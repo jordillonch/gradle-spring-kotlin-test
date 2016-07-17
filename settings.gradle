@@ -1,0 +1,6 @@
+rootProject.name = 'test'
+include 'module1'
+include 'springboot'
+include 'springboot_rest'
+include 'springboot_amqp'
+
